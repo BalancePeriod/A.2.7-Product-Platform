@@ -1,70 +1,80 @@
-### Balance Peirod: A Malanga Manufacturing Platform Ecosystem  
+### Wellness Wallet: A Sustainable Self-Care System  
 A.2.7.0 v0.02 Investment Memo Abstract
+2024.04.07.TUE
 
 ## Purpose
 `What do you do?`  
-Reimagining African Manufacturing: Our Agro-Processing Technologies are creating a more profitable and sustainable African Neutral Alcohol industry by localizing foundational supply chain processes.
+Balance Period enables communities to participate in the future of self care.
 
 `What does your producer do?`  
-Supply Chain Platform: Our Agro-Processing Drying Technology unlocks the potential of Malange to give smallholder farmers across africa new, stable, sources of income.
+Supply Chain Platform: Cultivating quality health data to unlock the hidden potential of your Wellness Assessments and Fitness Trackers
 
 `What does your provider do?`  
-Manufacturing Platform: Our Agro-Processing Slurry Technology prepared Malanga so it can be transformed into countless value-added products that will help African Manufacturing become self-sufficient.
+Manufacturing Platform: Transforming health data into Sustainable Self-Care Systems with 1-on-1, Cohort Based, or Self-Directed Coaching
 
 `What does your consumer do?`  
-Community Platform: Our community of designers and engineers create a blockchain enabled business ecosystem that shares our collective story and helps us expand our positive impact.
+Community Platform: Putting you in control of your health. Share your stories to inspire others with the Wellness Wallet.
 
 ## Problem
 `What problem are you solving?`  
-African Manufacturers are dependent on costly foreign imports
-
-`How does the world work in relation to this problem?`  
-- Unsustainable Supply Chains
-- Unstable Cost Variability
-- Unpredictable Cost Projections
+Centralized institutions gamify human health and perpetuate racial health gaps
+- Focus on profit from treating diseases instead of prevention
+- Productivity driven society emphasizes work over self care and leads to burnout
+- Health disparity limits creative freedom of underserved communities.
 
 ## Solution
 `How do you solve this problem?`  
-DEG's agro-processing technologies create self-sufficient African Supply Chains
-- Sustainable Supply Chains: Agro-Processing Long-term storage technology transforms local, neglected, and abundant subsistence crops into industrial ready crops
-- Improve Cost Control: Agro-Processing Manufacturing technology brings critical manufacturing to local so African communities can stabilize costs
-- Predictable Future Earnings Projections: This transparent supply chain enables all participants to plan for the future and develop their communities
+Decentralized institution that gamifies health literacy to maximize generational wellness
+1. Complete Wellness Assessment: Complete Wellness Assessment and compile your health data.
+2. Develop Sustainable Self-Care System: Leveraging your health data to develop your customized wellness plan.
+3. Share Sustainable Self-Care Stories: Share your health stories and empower others to invest in their wellness.
 
-## Process
+## Benefits
 `How does solving the problem change behavior?`  
-- Focus: Smallholder farmer capacity building
-- Productivity: Manufacturing workforce development
-- Creativity: Art Driven Decentralized Community Development
+- Awareness - Understand where to focus on health for improved clarity (FOCUS)
+- Accountability - Remove guesswork with an easy to build system (PRODUCTIVITY)
+- Appreciation - Gain supportive community through storytelling (CREATIVITY)
 
 ## Products
 `How does solving the problem make you money?`  
-Manufacturered Malanga: DEG’s agro-processing technology transforms Africa’s abundant and neglected Malanga crop into a suite of products
-- Dried Malanga Chips: for long-term storage
-- Malanga Slurry: for direct processing to Neutral Alcohol
-- Malanga Neutral Alcohol: Supply for Alcoholic Beverage Manufacturers (B2B)
-- Licensing: Expanding our Malanga Manufacturing Network
+Balance Blueprint: Balance Period’s Sustainable Self-Care System unlocks a family of self-care products to help you create Generational Wellness
+- Free: Wellness Assessment
+- $###: Corporate Workshops
+- $###: 8-12 week Challenge: Nuvita Virtual Corporate Wellness Coaching
+- $3/month: Wellness Wallet (Honeycommb) Personal Wellness Community
+- $###: Wellness Wallet Affiliate Marketing
+- $###: Wellness Wallet Corporate Sponsorship/ Advertising
 
 ## Opportunity
 `What is the scale of this opportunity?`  
-$60M Market in Rwanda
-$ Market in East Africa
-$ Licensing Opportunity
+- Corporate Workshops: #/month
+- Nuvita Coaching: Coaching 300 individuals/month
+  - 3 Corporate Clients 
+- 3-5 Wellness Additional Coaches in a year coaching 300 people each
+  - 900-1,500 individuals
+- Wellness Wallet = 1,500 users @ $3/month = $4,500/month
+- # of Balance Blueprint downloads to grow community
+- # of Podcast Downloads
+- # of Conferences to onboard clients
+- # Wellness Wallet Affiliate Marketing
+- # Wellness Wallet Corporate Sponsorships
 
 ## Team
 `Who are you and what makes you special?`  
-The Power of Our Platform: Our team of seasoned professionals are committed to helping African farmers, manufacturers, and artists thrive in our growing ecosystem
-- Felix Achille
-- Maggie Maingana
-- Karl Jean-Louis
-- Jacques Achille
-- Partners and Advisors
-  - A.2.7 Investment:
-    - [Rwanda Development Board](https://rdb.rw)
-  - D.8.1 Management:
-    - [Rwanda Agriculture and Animal Resources Development Board (RAB)](https://www.rab.gov.rw)
-  - G.5.4 Sales:
-    - [BDO East Africa](https://www.bdo-ea.com/en-gb/bdo-east-africa)
-    - [BK Capital](https://bkcapital.rw)
+The Power of Our Platform: Our team of seasoned professionals are committed to helping Wellness Assessment Brands, Coaches, and Content Creators thrive in our growing ecosystem
+- OWNER: Balance Period - Develops the Balance Blueprint/ Sustainable Self-Care System that create value for the ecosystem
+- PRODUCER: trainfarb - Develops the API-First Platform for Balance Period to improve data management within and between individuals and brands within the ecosystem
+- PROVIDER: hu3agency - Platform Engineering community that’s providing Internal Developer Platforms that enable coaches to efficiently create Sustainable Self-Care Courses for the community
+- CONSUMER: ourStory - Community Developer that’s building the Wellness Wallet to unlock the network effects of all the players in the community
+- PARTNERS:
+  - Acorns
+  - InsideTracker
+  - Whoop
+  - Nuvita
+  - Honeycommb
+  - Healthline
+  - Dr. Chatterjee
+  - Andrew Huberman
 
 `How much are you raising and what are you going to do with it?`  
-Call to Action: Read Investment Memo
+TBD
