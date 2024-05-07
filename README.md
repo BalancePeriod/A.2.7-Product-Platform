@@ -53,11 +53,11 @@ Balance Blueprint: Balance Period’s Sustainable Self-Care System unlocks a fam
 - 3-5 Wellness Additional Coaches in a year coaching 300 people each
   - 900-1,500 individuals
 - Wellness Wallet = 1,500 users @ $3/month = $4,500/month
-- # of Balance Blueprint downloads to grow community
-- # of Podcast Downloads
-- # of Conferences to onboard clients
-- # Wellness Wallet Affiliate Marketing
-- # Wellness Wallet Corporate Sponsorships
+- No of Balance Blueprint downloads to grow community
+- Number of Podcast Downloads
+- Number of Conferences to onboard clients
+- Number of Wellness Wallet Affiliate Marketing
+- Number of Wellness Wallet Corporate Sponsorships
 
 ## Team
 `Who are you and what makes you special?`  
